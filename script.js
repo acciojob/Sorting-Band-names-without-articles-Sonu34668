@@ -1,3 +1,5 @@
+//your code here
+//your code here
 const bands = ['The Beatles', 'Led Zeppelin', 'Pink Floyd', 'Aerosmith'];
 
 // Define the strip function to remove common words from band names
